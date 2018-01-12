@@ -1,5 +1,5 @@
 [![Docker Automated build](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg?style=flat-square)](https://hub.docker.com/r/rsrichardstevens/circleci-node-aws/)
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://github.com/richardstevens/circleci-node-aws)
+
 # CircleCI docker image with Node and AWS
 
 ### Intro
